@@ -1,7 +1,7 @@
 # HSL-Account-Form
 
 ## Form Tech
-- hosted on JotForm-https://jotform.com
+- Hosted on JotForm-https://jotform.com
 - Created under Lisa Haitz
 
 ## Features
